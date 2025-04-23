@@ -2,7 +2,7 @@
 
 # Ruta del csv
 ENTRADA="ASUL_25-1_Datos_debian.csv"
-SALIDA="laboratorio_datos_limpios.csv"
+SALIDA="datos_laboratorio.csv"
 
 # verificamos si csvkit esta instalado
 if ! command -v csvformat &> /dev/null; then
