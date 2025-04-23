@@ -1,4 +1,4 @@
-# ASUL_EquipoNoSe
+# Trabajo en equipo
 
 Se tiene que instalar `csvkit`:
 ```
@@ -6,7 +6,7 @@ sudo apt update
 sudo apt install csvkit
 ```
 
-Dar permisos de ejecuci√n a los scripts:
+Dar permisos de ejecucion a los scripts:
 ```
 chmod +x limpiar_csv.sh
 ```
